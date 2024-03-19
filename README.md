@@ -74,7 +74,7 @@
 
 <!--![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=deBarbarinAntoine&show_icons=true&theme=dark)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBarbarinAntoine&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBarbarinAntoine&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=9)
 
 
 </div>
