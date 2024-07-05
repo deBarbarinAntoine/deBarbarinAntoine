@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Computer Science student 👨‍🏫  from France 🇫🇷
 
-- :telescope: I’m actually in my first year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" width="35"/>
+- :telescope: I’m actually in my first year at <picture width="35"><source media="(prefers-color-scheme: dark)" srcset="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png"><source media="(prefers-color-scheme: light)" srcset="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_black.png"><img alt="Aix Ynov Campus logo" src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_black.png"></picture>
 
 - :seedling: Discovering new possibilities and coding languages.
 
@@ -42,7 +42,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <div style="background-color: #EEE">
+  <div>
     <!--  Programming languages  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
