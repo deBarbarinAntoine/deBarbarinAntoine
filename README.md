@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Computer Science student 👨‍🏫  from France 🇫🇷
 
-- :telescope: I’m actually finishing my first year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
+- :telescope: I’m actually on my second year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
 
 - :seedling: Discovering new possibilities and coding languages.
 
