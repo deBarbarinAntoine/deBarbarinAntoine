@@ -46,6 +46,7 @@
     <!--  Programming languages  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
@@ -72,14 +73,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <!--  OS / IT solutions  -->
     <img src="https://img.icons8.com/?size=100&id=sFFBQN8kzSOS&format=png&color=000000" title="VMware" alt="VMware" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/user-attachments/assets/4af733e3-ce27-4b75-9b35-137e03bd1503" title="ProxmoxVE" alt="ProxmoxVE" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pfsense/pfsense-original.svg" title="pfSense" alt="pfSense" width="40" height="40"/>&nbsp;
   </div>
-
----
 
 ### :fire: My Stats :
 
@@ -90,7 +90,6 @@
 <!--![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=deBarbarinAntoine&show_icons=true&theme=dark)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBarbarinAntoine&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=12)
-
 
 </div>
 <!--
