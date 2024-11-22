@@ -45,6 +45,7 @@
   <div>
     <!--  Programming languages  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -89,7 +90,7 @@
 
 <!--![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=deBarbarinAntoine&show_icons=true&theme=dark)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBarbarinAntoine&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=17)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deBarbarinAntoine&layout=normal&card_width=1000&hide_border=true&theme=chartreuse-dark&langs_count=14)
 
 </div>
 <!--
