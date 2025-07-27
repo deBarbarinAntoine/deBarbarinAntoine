@@ -27,7 +27,7 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Computer Science student 👨‍🏫  from France 🇫🇷
 
-- :telescope: I’m actually on my second year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
+- :telescope: I’ve actually finished my second year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
 
 - :seedling: Discovering new possibilities and coding languages.
 
@@ -45,7 +45,7 @@
   <div>
     <!--  Programming languages  -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
