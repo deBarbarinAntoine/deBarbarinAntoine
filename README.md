@@ -27,11 +27,11 @@
 ### :man_technologist: About Me :
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Computer Science student 👨‍🏫  from France 🇫🇷
 
-- :telescope: I’ve actually finished my second year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
+- :telescope: I’m actually on my third year at <img src="https://static.vitrine.ynov.com/cdn-cgi/image/width=164,height=92,fit=cover,format=auto/var/site/storage/images/0/0/5/8/68500-1-fre-FR/54627c38d579-logo_ynov_campus_aix_white.png" alt="Aix-Ynov Campus logo" width="30"/>
 
-- :seedling: Discovering new possibilities and coding languages.
+- :seedling: Discovering new possibilities, cybersecurity/IT/networking solutions and coding languages.
 
-- :zap: In my free time, I read lightnovels or code some funny programs.
+- :zap: In my free time, I read lightnovels, deploy some VM on my homelab or code some funny programs.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Antoine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-de-barbarin-aa765128b/)
 
